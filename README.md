@@ -1,5 +1,5 @@
 # BelBeaute
-Project 4: Combines hobbies w/technology
+Project 3: Combines hobbies w/technology
 
 Shortcuts
 Overview
@@ -17,3 +17,4 @@ Bulma
 mySQL
 Heroku
 
+****Issues in the server; Local Host no longer display CSS components (?????)/Information can be process through index file
